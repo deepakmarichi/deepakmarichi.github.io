@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Pixyll has Pagination
-date:       2014-06-08 11:21:29
-summary:    This is an empty post to illustrate the pagination component with Pixyll.
+title:      Hello World
+date:       2020-04-06 11:21:29
+summary:    First Page
 categories: jekyll pixyll
 ---
 
-This is an empty post to illustrate the pagination component with Pixyll.
+Hello World!
